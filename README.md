@@ -1,9 +1,9 @@
 # Community Services Data Set: developing a health visiting cohort
-## Overview of materials in this repository:
+## Overview of materials in this repository
 
 This repository contains R scripts describing management and preparation of the CSDS to identify a data subset that were used for analyses in my PhD titled "Learning from variation in delivery of the health visiting service in England: a mixed methods study".
 
-## R scripts:
+## R scripts
 
 - Script 1: Preparing CSDS child cohort: identifying children under 5 living in England between April 2018 and March 2020
 - Script 2: Preparing CSDS health visiting contacts: identifying health visiting contacts that were delivered to the cohort of children between April 2018 and March 2020
