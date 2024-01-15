@@ -7,8 +7,8 @@ This repository contains R scripts describing management and preparation of the 
 
 - Script 1: Preparing CSDS child cohort: identifying children under 5 living in England between April 2018 and March 2020
 - Script 2: Preparing CSDS health visiting contacts: identifying health visiting contacts that were delivered to the cohort of children between April 2018 and March 2020
-- Script 3: Preparing aggregate counts of mandated health visiting contacts and compares them to reference data to identify a subset of complete data
-- Script 4: Preparing aggregate counts of children eligible for mandated health visiting contacts and compares them to reference data to identify a subset of complete data
+- Script 3: Preparing aggregate counts of mandated health visiting contacts to compare to reference data and identify a subset of complete data
+- Script 4: Preparing aggregate counts of children eligible for mandated health visiting contacts to compare to reference data and identify a subset of complete data
 - Script 5: Preparing a final data subset of children with complete mandated health visiting contacts
 
 ## Authors
